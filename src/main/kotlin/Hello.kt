@@ -1,4 +1,5 @@
-fun main(args: List<String>) {
+
+fun main(args: Array<String>) {
     val h = Hello();
     h.hello()
 }
